@@ -6,8 +6,8 @@ const products = require('./controllers/product.controller')
 
 app.use(express.json())
 app.use('/user',user);
-ap.use('/post/',products);
-
+app.use('/post/',products);
+app.use('/get/',products);
 app.listen(3001,async ()=>{
     await connect();
     console.log("DB connected and Server started on port 3001")

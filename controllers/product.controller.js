@@ -10,4 +10,12 @@ router.post('/products',async(req,res)=>{
     res.status(200).send({prods})
 })
 
+router.get('/products/:data',async(req,res)=>{
+    const dy = req.body;
+    console.log(dy);
+    // const data = await product.find({subname : {'$regex':'Study','$options':'i'}});
+    const data = await product.find({$or :[{subname : {'$regex':'Study','$options':'i'}},{subname:{'$regex':"Lamp",'$options':'i'}}]})
+    res.status(200).send({data});
+})
+
 module.exports = router;
