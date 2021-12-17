@@ -4,7 +4,9 @@ const connect = require('./config/db')
 const user = require('./controllers/user.controller')
 const products = require('./controllers/product.controller')
 const cart = require('./controllers/cart.controller')
+const cors = require('cors')
 
+app.use(cors());
 app.use(express.json())
 app.use('/user',user);
 app.use('/post/',products);

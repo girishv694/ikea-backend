@@ -1,0 +1,112 @@
+{
+    [
+        {
+
+
+            "name" : "SVALLET",
+            "subname" :"study lamp",
+            "price":369,
+            "rating":3,
+            "image":"https://www.ikea.com/in/en/images/products/svallet-work-lamp-dark-grey-white__0703502_pe724751_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/svallet-work-lamp-dark-grey-white__0881047_pe724753_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/svallet-work-lamp-dark-grey-white__0881039_pe724750_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/svallet-work-lamp-dark-grey-white__0881045_pe724752_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/svallet-work-lamp-dark-grey-white__1028313_ph177478_s5.jpg?f=xxs",
+            "description":"This work lamp in recycled plastics has received the international design award Red Dot Award. It provides a functional directed light and is easy to match with the interior and move around in the home."
+        }
+        
+        
+        {
+            "name" : "FORSA",
+            "subname" :"study lamp",
+            "price":1690,
+            "rating":4,
+            "image":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-white-silver-colour__0243818_pe383097_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-white-silver-colour__0880609_pe614070_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-white-silver-colour__0880615_pe614886_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-white-silver-colour__0880618_pe615837_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-white-silver-colour__0386995_ph118972_s5.jpg?f=xxs",
+            "description":"Classic style work lamp in steel that will brighten up your day. The arm and shade are adjustable which makes it a great lamp for reading by the desk, bed or sofa."
+        }
+        
+        {
+            "name" : "TERTIAL",
+            "subname" :"study lamp",
+            "price":999,
+            "rating":3,
+            "image":"https://www.ikea.com/in/en/images/products/tertial-work-lamp-dark-grey__0609306_pe684440_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/tertial-work-lamp-dark-grey__0879117_pe622662_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/tertial-work-lamp-dark-grey__0879121_pe622663_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/tertial-work-lamp-dark-grey__0795406_ph164899_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/tertial-work-lamp-dark-grey__1057336_ph179089_s5.jpg?f=xxs",
+            "description":"TERTIAL work lamp was introduced in our range in 1998. The classic, steel design with adjustable arm and head makes it a perfect choice if you are looking for a flexible and effective reading light."
+        }
+        
+        {
+            "name" : "FINNSTAR",
+            "subname" :"study lamp",
+            "price":999,
+            "rating":3,
+            "image":"https://www.ikea.com/in/en/images/products/finnstarr-work-lamp-black__0765770_pe753631_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/finnstarr-work-lamp-black__0764519_pe753236_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/finnstarr-work-lamp-black__0765771_pe753634_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/finnstarr-work-lamp-black__0765772_pe753633_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/finnstarr-work-lamp-black__0765773_pe753632_s5.jpg?f=xxs",
+            "description":"Classic style work lamp in steel that will brighten up your day. The arm and shade are adjustable which makes it a great lamp for reading by the desk, bed or sofa."
+        }
+        
+        {
+            "name" : "NAVLINGE",
+            "subname" :"study lamp",
+            "price":1850,
+            "rating":4,
+            "image":"https://www.ikea.com/in/en/images/products/naevlinge-led-work-lamp-light-blue__0831622_pe777281_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/naevlinge-led-work-lamp-light-blue__0831622_pe777281_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/naevlinge-led-work-lamp-light-blue__0831623_pe777280_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/naevlinge-led-work-lamp-light-blue__1049498_pe844181_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/naevlinge-led-work-lamp-light-blue__1049498_pe844181_s5.jpg?f=xxs",
+            "description":"This neat NÄVLINGE LED work lamp gives you a good glare-free light that is easy to direct. Simple, clean design that blends into the room – just like the other lamps in the series."
+        }
+        
+        {
+            "name" : "SKURUP",
+            "subname" :"study lamp",
+            "price":999,
+            "rating":4,
+            "image":"https://www.ikea.com/in/en/images/products/skurup-clamp-spotlight-black__0972931_pe811820_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/skurup-clamp-spotlight-black__0980769_pe815104_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/skurup-clamp-spotlight-black__0980768_pe815105_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/skurup-clamp-spotlight-black__1023858_ph177895_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/skurup-clamp-spotlight-black__1023857_ph177680_s5.jpg?f=xxs",
+            "description":"Metal, rugged constructions and timeless design – enjoy the SKURUP lamp series for a long time. Simple adjustments and different types of lamps make the series practical and flexible throughout the home."
+        }
+        
+        {
+            "name" : "HÅRTE",
+            "subname" :"study lamp",
+            "price":999,
+            "rating":5,
+            "image":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-yellow-silver-colour__0724025_pe734520_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-yellow-silver-colour__0724021_pe734518_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-yellow-silver-colour__0724022_pe734519_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-yellow-silver-colour__0724023_pe734522_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/harte-led-work-lamp-yellow-silver-colour__0724024_pe734521_s5.jpg?f=xxs",
+            "description":"Easy to use in different places as you can power the lamp through the USB port on your computer or an ordinary power socket"
+        }
+        
+        {
+            "name" : "VIRRMO",
+            "subname" :"study lamp",
+            "price":3051,
+            "rating":4,
+            "image":"https://www.ikea.com/in/en/images/products/virrmo-work-lamp-nickel-plated__0859444_pe780909_s5.jpg?f=xxs",
+            "image1":"https://www.ikea.com/in/en/images/products/virrmo-work-lamp-nickel-plated__0859445_pe780911_s5.jpg?f=xxs",
+            "image2":"https://www.ikea.com/in/en/images/products/virrmo-work-lamp-nickel-plated__0859446_pe780910_s5.jpg?f=xxs",
+            "image3":"https://www.ikea.com/in/en/images/products/virrmo-work-lamp-nickel-plated__1057339_ph179091_s5.jpg?f=xxs",
+            "image4":"https://www.ikea.com/in/en/images/products/virrmo-work-lamp-nickel-plated__1057487_ph179169_s5.jpg?f=xxs",
+            "description":"The modern, stylish lamps in the VIRRMO series have a sturdy brushed metal construction. They also take up little space and are easy to direct when you want to read, work or illuminate something you like."
+        }
+        }]
+        }
+    ]
+}

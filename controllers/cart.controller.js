@@ -17,4 +17,10 @@ router.get('/cart',async(req,res)=>{
     res.status(200).send({data})
 })
 
+router.delete('/cart/delete/:id',async(req,res)=>{
+    const id = req.params.id;
+    const data = await cart.findByIdAndDelete(id).lean().exec();
+    res.status(200).send({data})
+})
+
 module.exports = router;
